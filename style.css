@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/02/10/45/95/360_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg"); 
+     background-repeat: no-repeat;
+     background-size: cover;
+   }
+   canvas{
+     background-color: white;
+     border-style: double;
+     border-width: 10pxq;
+   }
+   input{
+     background-color: white;
+   }
+   
+   
